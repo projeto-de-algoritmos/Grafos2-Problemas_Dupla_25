@@ -13,19 +13,22 @@ Temas:
 | 18/0016067  |  Erick Levy |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolvemos optar por realizar 3 questões sobre a matéria de Grafo 2. você pode encontrar o código fonte das questão em cada uma das pastas que contêm um READEME.md explicando sobre a questão com o link no repositório.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![Problema_3](./assets/problema_3.png)
 
 ## Instalação 
 **Linguagen(s)**: c++ <br>
 
+instalar g++ compiler
+
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Dentro de cada pasta ira conter um README para cada problema e como rodar em seu computador.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Obrigado!
 
 
 
