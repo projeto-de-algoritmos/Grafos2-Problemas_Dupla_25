@@ -13,7 +13,7 @@ Temas:
 | 18/0016067  |  Erick Levy |
 
 ## Sobre 
-Resolvemos optar por realizar 3 questões sobre a matéria de Grafo 2. você pode encontrar o código fonte das questão em cada uma das pastas que contêm um READEME.md explicando sobre a questão com o link no repositório.
+Resolvemos optar por realizar 4 questões sobre a matéria de Grafo 2. você pode encontrar o código fonte das questão em cada uma das pastas que contêm um READEME.md explicando sobre a questão com o link no repositório.
 
 ## Screenshots
 
