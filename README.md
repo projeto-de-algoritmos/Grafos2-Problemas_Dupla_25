@@ -17,9 +17,11 @@ Resolvemos optar por realizar 3 questões sobre a matéria de Grafo 2. você pod
 
 ## Screenshots
 
-![Problema_1](./assets/problema_3.png)
+![Problema_1](./assets/problema_1.png)
 
-![Problema_3](./assets/problema_1.png)
+![Problema_2](./assets/problema_2.png)
+
+![Problema_3](./assets/problema_3.png)
 
 ## Instalação 
 **Linguagen(s)**: c++ <br>

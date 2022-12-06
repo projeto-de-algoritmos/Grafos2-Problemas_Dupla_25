@@ -6,7 +6,7 @@ O código foi feito em c usando o algoritmo de componentes fortemente conectados
 
 Para copilar rode:
 
-> gcc paisesEmGuerra.c -o myprogram
+> gcc 1128.c -o myprogram
 
 > ./myprogram
 
