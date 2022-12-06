@@ -26,9 +26,9 @@ Resolvemos optar por realizar 3 questões sobre a matéria de Grafo 2. você pod
 ![Problema_4](./assets/problema_4.png)
 
 ## Instalação 
-**Linguagen(s)**: c++ <br>
+**Linguagen(s)**: c++, c <br>
 
-instalar g++ compiler
+instalar g++ e gcc compiler
 
 ## Uso 
 Dentro de cada pasta ira conter um README para cada problema e como rodar em seu computador.
